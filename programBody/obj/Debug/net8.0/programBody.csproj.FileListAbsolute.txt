@@ -1,0 +1,15 @@
+C:\Users\tolya\Documents\Final\programBody\bin\Debug\net8.0\programBody.exe
+C:\Users\tolya\Documents\Final\programBody\bin\Debug\net8.0\programBody.deps.json
+C:\Users\tolya\Documents\Final\programBody\bin\Debug\net8.0\programBody.runtimeconfig.json
+C:\Users\tolya\Documents\Final\programBody\bin\Debug\net8.0\programBody.dll
+C:\Users\tolya\Documents\Final\programBody\bin\Debug\net8.0\programBody.pdb
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\programBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\programBody.AssemblyInfoInputs.cache
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\programBody.AssemblyInfo.cs
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\programBody.csproj.CoreCompileInputs.cache
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\programBody.sourcelink.json
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\programBody.dll
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\refint\programBody.dll
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\programBody.pdb
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\programBody.genruntimeconfig.cache
+C:\Users\tolya\Documents\Final\programBody\obj\Debug\net8.0\ref\programBody.dll
