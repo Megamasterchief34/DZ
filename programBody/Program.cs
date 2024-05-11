@@ -41,6 +41,7 @@ string[] homework = GenerateArray(5);
                
 
             }
+PrintArray(GenerateNewArray(count));
    }
 
 Main();
