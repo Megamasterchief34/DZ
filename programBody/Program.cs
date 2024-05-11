@@ -14,7 +14,14 @@ void Main()
          return tempArray;
          
       }
-  
+   void PrintArray(string[] arrayForPrint)
+{
+    foreach (string number in arrayForPrint)
+    {
+        System.Console.Write(number + " ");
+    }
+
+}
    }
 
 Main();
