@@ -22,6 +22,19 @@ void Main()
     }
 
 }
+
+ string [] GenerateNewArray(int count)
+            {
+                string[] newTempArray = new string[count];
+                for (int j = 0; j < count; j++)
+                {
+                    newTempArray = newHomework;
+                    
+                }
+               return newTempArray;
+               
+
+            }
    }
 
 Main();
