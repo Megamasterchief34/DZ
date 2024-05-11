@@ -1,2 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+void Main()
+   {
+      
+   string[] GenerateArray(int size)
+      {
+         string[] tempArray = new string[size];
+         for (int i = 0; i < size; i++)
+         {
+            Console.WriteLine("Введите элемент массива: ");
+            tempArray[i] = Console.ReadLine()!;
+         
+         }
+         return tempArray;
+         
+      }
+  
+   }
+
+Main();
